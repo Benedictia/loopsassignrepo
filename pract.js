@@ -27,14 +27,14 @@ for (let num = 1; num <= 10; num++){
         console.log(num);
     }
 }
-If a number is not divisible by either 3 or 5, log the number.
+// If a number is not divisible by either 3 or 5, log the number.
 for (let num = 1; num <= 10; num++){ 
     if (num % 3  !== 0 && num % 5 !== 0) {
       
         console.log(num);
     }
 }
-part 2 : Prime time
+// part 2 : Prime time
 
     
 let n = 9; 
@@ -57,3 +57,4 @@ while (true) {
     }
     number++;
 }
+
